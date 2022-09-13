@@ -1,3 +1,5 @@
+package Chp1;
+
 public class PhaseGenerator {
     public static void main(String[] args) {
         //make three string arrays of words
